@@ -1,5 +1,17 @@
 /*
-Covid 19 Data Exploration 
+Project: COVID-19 Data Exploration
+
+This project involves exploratory analysis of a COVID-19 dataset that includes global statistics on cases, deaths, and vaccinations—organized by country and continent over time.
+
+Key SQL skills demonstrated:
+- Joins and Common Table Expressions (CTEs)
+- Temporary tables
+- Window functions
+- Aggregate functions
+- View creation
+- Data type conversions
+
+The goal is to extract meaningful insights and prepare data for visualization and further analysis.
 */
 
 Select *
