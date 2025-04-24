@@ -1,5 +1,5 @@
 /*
-SQL Queries for Tableau Dashboard
+COVID-19 Data SQL Queries for Tableau Dashboard
 
 This script contains the four main SQL queries used to prepare datasets for Tableau visualizations. 
 The queries were executed in Google BigQuery and exported as CSV files, which were then uploaded 
