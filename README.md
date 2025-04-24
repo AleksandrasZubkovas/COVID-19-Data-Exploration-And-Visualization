@@ -11,7 +11,7 @@ The dataset used in this project comes from Our World in Data (https://ourworldi
 
 ## Interactive Dashboard:
 See the results visualized on my Tableau Public profile (called "COVID-19 Data Visualization Project"):  
-https://public.tableau.com/app/profile/aleksandras.zubkovas/vizzes
+[https://public.tableau.com/app/profile/aleksandras.zubkovas/vizzes](https://public.tableau.com/app/profile/aleksandras.zubkovas/viz/COVID-19DataVisualizationProject_17454813478460/Dashboard1)
 
 ## Tools & Skills Used:
 - SQL (Google BigQuery)
