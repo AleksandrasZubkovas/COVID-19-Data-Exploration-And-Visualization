@@ -9,11 +9,11 @@ The dataset used in this project comes from Our World in Data (https://ourworldi
 - Created temporary tables and views for structured analysis
 - Exported cleaned data into **Tableau** for data visualization
 
-### Interactive Dashboard:
+## Interactive Dashboard:
 See the results visualized on my Tableau Public profile (called "COVID-19 Data Visualization Project"):  
 https://public.tableau.com/app/profile/aleksandras.zubkovas/vizzes
 
-#### Tools & Skills Used:
+## Tools & Skills Used:
 - SQL (Google BigQuery)
 - Joins, CTEs, Temp Tables, Views
 - Window & Aggregate Functions
